@@ -1,0 +1,2 @@
+The proportional plus integral controller with CNN files includes the main implementation and ablation study files. Each file contains two or three implementation works. ReachCNNPI, Miracle 88PI, miracle88, and beforeautoPI are the main implementation files. The others are the ablation study files.
+The proposed methodologies consist of manual and automated approaches, as well as a combination of pre-CNN and mid-CNN PIC strategies. Each of these methods offers unique advantages, particularly regarding control flexibility and responsiveness.
